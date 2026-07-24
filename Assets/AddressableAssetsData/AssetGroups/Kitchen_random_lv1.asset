@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Kitchen_random_lv1
+  m_EditorClassIdentifier: 
+  m_GroupName: Kitchen_random_lv1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3a79cfaf9c8a37843a412fb739e6849d
+  m_SerializeEntries:
+  - m_GUID: 40ecb19dbc0add44792507db2c8a6c54
+    m_Address: Food_Meatloaf
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83f2e29651401fd419b3a242d54b16e4
+    m_Address: Food_Pumpkin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e6ef8a1f02c110428ecaec695daa59d
+    m_Address: Prop_MiniStove
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b87ebf94c3d8e6f4b8dcb0871a846601
+    m_Address: Prop_Pan_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4777e2f80f6f9d2429978ea900008468
+    m_Address: Prop_Plate_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b39836b2740927f4ab25a2a8a33ae347
+    m_Address: Prop_Pot_02_p01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1b727b21546727148af635397a8d1a46, type: 2}
+    - {fileID: 11400000, guid: a026057a364528a468df2a25085af331, type: 2}

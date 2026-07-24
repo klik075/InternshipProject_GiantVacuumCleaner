@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bg_random_lv4
+  m_EditorClassIdentifier: 
+  m_GroupName: bg_random_lv4
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aed569c3d5d8c0141ae439bc19445443
+  m_SerializeEntries:
+  - m_GUID: c7ecfe1d6f9713b4e9fb0d48da2e1300
+    m_Address: Prop_CTPTrashCan_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 120a5c181ce7f3448b905369395ef4c2
+    m_Address: Prop_CTPTrashCan_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bca101d4a9429db44b83953ac6c73037
+    m_Address: Prop_ElectracityCabinet_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caef006001a3ca84493897e4fe33c4af
+    m_Address: Prop_ElectracityCabinet_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0019e26c34df50c48a054d7517515bd6
+    m_Address: Prop_ElectracityCabinet_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40ae2e20ee520294a89e0a673c0a44bf
+    m_Address: Prop_Intel_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 079225f7817629e408ac4a29a5c6bb57
+    m_Address: Prop_Magazine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0eb4d51b4dc13974a907627c07e2ddd1
+    m_Address: Prop_OilBerrel_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9b8455ca3e1c1f46856a015552650f8
+    m_Address: Prop_RoadCone_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3ea76a1bd6cf1f43984a609b6e8fc86
+    m_Address: Prop_RoadCone_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 131b3d5adb160264caffb5e47234bd49
+    m_Address: Prop_RoadCone_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af034ba8893ecc24995621fe3ba0c762
+    m_Address: Prop_RoofVent_08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d03ef7d16fbd344882ba9f1f20856b2
+    m_Address: Prop_RoofVent_09
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bd6c550aef0be141b09fb83889d77cc
+    m_Address: Prop_TrashBag_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1488ed3c2d621924988703d16dff9b3a
+    m_Address: Prop_TrashBag_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9a5e14c38629154caa3c1a85b5788b5
+    m_Address: Prop_TrashBag_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8ad33bb338eed25458a5f0dcc36c470e, type: 2}
+    - {fileID: 11400000, guid: 5f0948e783035e94ba03a45856d28ab6, type: 2}

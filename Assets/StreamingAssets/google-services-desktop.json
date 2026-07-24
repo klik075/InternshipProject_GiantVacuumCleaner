@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198114416046",
+    "project_id": "giant-vaccum",
+    "storage_bucket": "giant-vaccum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198114416046:android:6d1521cadc83de0d60243f",
+        "android_client_info": {
+          "package_name": "com.actionfit.giantcleaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPFc4lXKvPb3SwXz6woFIi_SzMMFIwig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

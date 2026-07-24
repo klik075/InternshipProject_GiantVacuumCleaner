@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc717b929b177444aa817bdc0b53251, type: 3}
+  m_Name: PrefabAddressList
+  m_EditorClassIdentifier: 
+  groupAddresses:
+  - groupName: bathroom_random_lv0
+    addresses:
+    - Prop_Beauty_01
+    - Prop_Beauty_02
+    - Prop_Beauty_03
+    - Prop_Beauty_04
+    - Prop_Beauty_05
+    - Prop_Beauty_06
+    - Prop_Beauty_07
+    - Prop_Beauty_08
+    - Prop_Beauty_09
+    - Prop_Beauty_10
+    - Prop_Brush_01
+    - Prop_Brush_02
+    - Prop_Soup
+    - Prop_SoupDispenser
+    - Prop_ToiletBrush_01
+    - Prop_ToiletBrush_02
+    - Prop_Towel_01
+    - Prop_Towel_02
+  - groupName: bedroom_random_lv1
+    addresses:
+    - Prop_Ball_03
+    - Prop_Ball_04
+    - Prop_Ball_05
+    - Prop_EarthMapBall
+    - Prop_GenericPillow_01
+    - Prop_GenericPillow_02
+    - Prop_KidsCube_A
+    - Prop_KidsCube_C
+    - Prop_KidsCube_E
+    - Prop_KidsCube_L
+    - Prop_KidsCube_M
+    - Prop_KidsCube_N
+    - Prop_KidsCube_R
+    - Prop_KidsCube_U
+    - Prop_KidsCube_V
+    - Prop_TeddyBear_01
+    - Prop_TeddyBear_04
+    - Prop_ToyCar_01
+    - Prop_ToyTrain_01
+    - Prop_ToyTrain_02
+    - Prop_ToyTrain_03
+    - Prop_ToyTrain_04
+    - Prop_ToyTrain_05
+  - groupName: farm_random_lv4
+    addresses:
+    - FRP_food_Avocado
+    - FRP_food_Common
+    - FRP_food_Broccoli
+    - FRP_Prop_SmallFarmingTool_01
+    - FRP_Prop_SmallFarmingTool_03
+    - FRP_food_Garlic
+    - FRP_food_Pumpkin
+    - FRP_Prop_SmallFarmingTool_04
+    - FRP_food_Radish
+    - FRP_Env_GrassPlant_06
+    - FRP_Env_GrassPlant_01
+    - FRP_Prop_SmallFarmingTool_06
+    - FRP_Prop_WateringCan_01
+    - FRP_Prop_Bucket_04
+    - FRP_Prop_Bucket_01
+    - FRP_food_Lemon
+    - FRP_food_Banana
+    - FRP_Prop_Bucket_03
+    - FRP_food_Grape
+    - FRP_food_Eggplant
+    - FRP_food_Onion
+    - FRP_food_Cucumber
+    - FRP_Prop_WateringCan_03
+    - FRP_food_Apple
+    - FRP_Prop_WateringCan_02
+    - FRP_food_Pear
+    - FRP_Env_GrassPlant_03
+    - FRP_food_Potato
+    - FRP_food_Mango
+    - FRP_Env_Wheat
+    - FRP_food_Watermelon
+    - FRP_Prop_SmallFarmingTool_02
+    - FRP_Env_GrassPlant_04
+    - FRP_food_Orange
+    - FRP_Prop_Bucket_02
+    - FRP_food_Pepper
+    - FRP_food_Carrot
+    - FRP_Env_GrassPlant_02
+    - FRP_Env_GrassPlant_07
+    - FRP_food_RedChili
+    - FRP_food_Tomato
+    - FRP_Env_GrassPlant_05
+    - FRP_Prop_SmallFarmingTool_05
+    - FRP_food_Tangerine
+  - groupName: farm_random_lv5
+    addresses:
+    - FRP_Prop_BigFarmingTool_03
+    - FRP_Prop_BigFarmingTool_01
+    - FRP_Prop_BigFarmingTool_04
+    - FRP_Prop_BigFarmingTool_07
+    - FRP_Prop_BigFarmingTool_06
+    - FRP_Prop_BigFarmingTool_05
+    - FRP_Prop_BigFarmingTool_02
+    - FRP_Prop_WoodenBox_01
+    - FRP_Prop_WoodenBox_02
+    - FRP_Prop_WoodenBox_03
+    - FRP_Prop_WoodenBox_06
+    - FRP_Prop_WoodenCrates_01
+    - FRP_Prop_WoodenCrates_02
+    - FRP_Prop_WoodenCrates_03
+    - FRP_Prop_WoodenCrates_04
+  - groupName: bg_random_lv4
+    addresses:
+    - Prop_CTPTrashCan_01
+    - Prop_CTPTrashCan_02
+    - Prop_ElectracityCabinet_01
+    - Prop_ElectracityCabinet_02
+    - Prop_ElectracityCabinet_03
+    - Prop_Intel_01
+    - Prop_Magazine
+    - Prop_OilBerrel_01
+    - Prop_RoadCone_01
+    - Prop_RoadCone_02
+    - Prop_RoadCone_03
+    - Prop_RoofVent_08
+    - Prop_RoofVent_09
+    - Prop_TrashBag_01
+    - Prop_TrashBag_02
+    - Prop_TrashBag_03
+  - groupName: bg_random_lv5
+    addresses:
+    - Prop_StreetSign_Footpath_02
+    - Prop_StreetSign_T
+    - Prop_StreetSign_Stright
+    - Prop_StreetSign_TrafficSignals
+    - Prop_StreetSign_Footpath_01
+    - Prop_StreetSign_Speed_45
+    - Prop_StreetSign_Speed_40
+    - Prop_StreetSign_Speed_50
+    - Prop_StreetSign_SideRoadRight
+    - Prop_StreetSign_Empty
+    - Prop_StreetSign_NoParking
+    - Prop_StreetSign_Parking
+    - Prop_StreetSign_RoadNarrows
+    - Prop_StreetSign_SideRoadLeft
+    - 'Prop_StreetSign_Rotary '
+    - Prop_StreetSign_Speed_65
+    - Prop_StreetSign_Y
+    - Prop_StreetSign_Speed_80
+    - Prop_StreetSign_Speed_25
+    - Prop_StreetSign_Stop
+    - Prop_StreetSign_TurnLeft
+    - Prop_StreetSign_Speed_35
+    - Prop_StreetSign_Staggered
+    - Prop_StreetSign_TurnRight
+    - Prop_StreetSign_MiniBumps
+    - Prop_StreetSign_Speed_30
+    - Prop_StreetSign_TwoRoads
+    - Prop_StreetSign_Side
+    - Prop_StreetSign_Speed_90
+    - Prop_StreetSign_Speed_15
+    - Prop_StreetSign_NoEntery
+    - Prop_StreetSign_Cross
+    - Prop_StreetSign_Left
+    - Prop_StreetSign_Slope
+    - Prop_StreetSign_Bump
+    - Prop_StreetSign_Major
+    - Prop_Intel_03
+    - Prop_StreetSign_Speed_55
+  - groupName: bg_random_lv5_tree
+    addresses:
+    - Prop_Tree_01
+    - Prop_Tree_02
+    - Prop_Tree_03
+    - Prop_Tree_04
+    - Prop_Tree_08
+  - groupName: Kitchen_random_lv0
+    addresses:
+    - Food_Apple
+    - Food_Black Coffee Cup
+    - Food_Bread
+    - Food_Broccoli
+    - Food_Burger
+    - Food_Carrot
+    - Food_Cheese
+    - Food_Chicken Chest
+    - Food_Chicken Sub
+    - Food_Chopped Carrot
+    - Food_Corn
+    - Food_Egg
+    - Food_French Fries
+    - Food_HotDog Sandwich.001
+    - Food_Lettuce
+    - Food_Meet
+    - Food_Milk Bottle
+    - Food_Oil
+    - Food_Omelette
+    - Food_Pizza
+    - Food_Potato
+    - Food_Pumpkin Soup
+    - Food_Rice
+    - Food_Salad
+    - Food_Seared Ground Beef
+    - Food_Steak
+    - Food_Susage
+    - Food_Sushi
+    - Food_Taco
+    - Food_Tomato
+    - Food_Turkey Sandwich
+    - Food_Water Cup
+    - Prop_Bowel_04
+    - Prop_CuttingPlate
+    - Prop_Knife_01
+    - Prop_Knife_03
+    - Prop_Pot_04
+    - Prop_RollingPin
+    - Prop_Spatula_05
+    - Prop_Spatula_06
+    - Prop_WhipMixer
+  - groupName: Kitchen_random_lv1
+    addresses:
+    - Food_Meatloaf
+    - Food_Pumpkin
+    - Prop_MiniStove
+    - Prop_Pan_02
+    - Prop_Plate_02
+    - Prop_Pot_02_p01
+  - groupName: livingroom_random_lv0
+    addresses:
+    - Prop_Book_01
+    - Prop_Book_02
+    - Prop_Book_03
+    - Prop_Book_04
+    - Prop_Console_01
+    - Prop_Console_02
+    - Prop_Console_03
+    - Prop_Console_05
+    - Prop_Homeplant_01
+    - Prop_Homeplant_02
+    - Prop_Homeplant_03
+    - Prop_Homeplant_04
+    - Prop_Homeplant_05
+    - Prop_Homeplant_06
+    - Prop_Homeplant_09
+    - Prop_Homeplant_10
+    - Prop_Homeplant_11
+    - Prop_Telephone
+  - groupName: livingroom_random_lv1
+    addresses:
+    - Prop_HomeLamp_02
+    - Prop_HomeLamp_03
+    - Prop_Homeplant_07
+    - Prop_Homeplant_08

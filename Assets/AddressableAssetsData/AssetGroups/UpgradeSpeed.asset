@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UpgradeSpeed
+  m_EditorClassIdentifier: 
+  m_GroupName: UpgradeSpeed
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9599d8fccae5784448964e32c0b62bbb
+  m_SerializeEntries:
+  - m_GUID: 986d981e07a0df94f9544cc3ec3cc2fd
+    m_Address: speed 0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2f71e5109d2447418b07ca6bf5e7432
+    m_Address: speed 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02dadacf5f912164eb542a2a66aca7bd
+    m_Address: speed 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a308f2d0a7d1f2c4ca5d693846d8ed56
+    m_Address: speed 3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24784e86b1e2c5e4d9b19e2bfc3eaab9
+    m_Address: speed 4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fc67af93e515e444aec4bf615c7d879
+    m_Address: speed 5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb5ad4d0cab97e7419f8b0a69bc27d48
+    m_Address: speed 6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cd16e751ddc68d4daeece09e09877a1
+    m_Address: speed 7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51758873331a02242ae605bcf3871fc7
+    m_Address: speed 8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 571d5899ada049b47b16b529f70a0dc7
+    m_Address: speed 9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 719e34beafbe65448a3cf17115d1c099
+    m_Address: speed 10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 908110565ebde524a940f11b85018ed9
+    m_Address: speed 11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63e97cbaa5e29a842bb6feaebebd31e5
+    m_Address: speed 12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6003610899ab31f40b72bcc5b495128e
+    m_Address: speed 13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7a46b9adb61ac74e9ea959b851f244c
+    m_Address: speed 14
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 282d2a1652581b84bbbc67b157aa27b9
+    m_Address: speed 15
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fdc8b141e44eba418682540e376ca6e
+    m_Address: speed 16
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 537da31dcabd91945af749655925a753
+    m_Address: speed 17
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 484ae29181e1bee47969aad7b517158f
+    m_Address: speed 18
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 939cd24abd0371341a991800895aa754
+    m_Address: speed 19
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 809924569451d8c4ebd4bd79aab1030a
+    m_Address: speed 20
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cd875995b0642b447b7cd4eebec1d584, type: 2}
+    - {fileID: 11400000, guid: ce353ed6a0d33d94ebf47c84b13dc9bb, type: 2}

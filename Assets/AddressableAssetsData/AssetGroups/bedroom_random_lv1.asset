@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bedroom_random_lv1
+  m_EditorClassIdentifier: 
+  m_GroupName: bedroom_random_lv1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: efb71a9159630ad4aa06409a2c281f44
+  m_SerializeEntries:
+  - m_GUID: 3ccf0af36e7a16949b34814a8d347ebd
+    m_Address: Prop_Ball_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f83d84a160c69a640b3e8bd1b138f1c0
+    m_Address: Prop_Ball_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1310033d066897b41a970dd727c25d05
+    m_Address: Prop_Ball_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9fc8c1eeb63f6b468b9f78b012611b1
+    m_Address: Prop_EarthMapBall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 735cbf21abd7206408eeb30b25b39d99
+    m_Address: Prop_GenericPillow_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fc5b33deb15ee14b91a3e4c750ab961
+    m_Address: Prop_GenericPillow_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c13fb64b0404bfb468a019c1708734cb
+    m_Address: Prop_KidsCube_A
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 198f6d8b77975cb40838ed5d68a4a136
+    m_Address: Prop_KidsCube_C
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 364e0a8d3176a1f46bc1ecaedb9162bd
+    m_Address: Prop_KidsCube_E
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51f8f6a97a0b801479136c590b08741b
+    m_Address: Prop_KidsCube_L
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b65f531ed41ea64f841d08d212f8b3f
+    m_Address: Prop_KidsCube_M
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38d1f2a337f59474284cd96737bf7a21
+    m_Address: Prop_KidsCube_N
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed470182fe40a99428554884722ed1dc
+    m_Address: Prop_KidsCube_R
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02952a9598e389646b5c0441a8a63f60
+    m_Address: Prop_KidsCube_U
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6333e4ccebf6fb42b1eb6f790acf42e
+    m_Address: Prop_KidsCube_V
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c301cf34b16a394d9c9303d6b2f73e4
+    m_Address: Prop_TeddyBear_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a44080f86925ccb4ea24d5d040882f78
+    m_Address: Prop_TeddyBear_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee10a67f04d604a4eba53f2cdd6e0725
+    m_Address: Prop_ToyCar_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f8855c40a87cd0479b8537fb7c25835
+    m_Address: Prop_ToyTrain_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf22d17d073083a4cb703716601896d2
+    m_Address: Prop_ToyTrain_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f2dca0c1181456488920d1a4bb31cef
+    m_Address: Prop_ToyTrain_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44753b50e86ce1d4793c62397e425dde
+    m_Address: Prop_ToyTrain_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f320c0325413c43429354c7e68253410
+    m_Address: Prop_ToyTrain_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 45f672041af2ae14884a87f322070f33, type: 2}
+    - {fileID: 11400000, guid: 4738a5d93878db140ba02930f5db3ed8, type: 2}

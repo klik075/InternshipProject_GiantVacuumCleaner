@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f5c8dafc49cd20a45bccb176ace475d2
+  m_SerializeEntries:
+  - m_GUID: e57d16561387b43a8b86242a58c8739f
+    m_Address: PersistentSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63170a76a75264b038dab496e8617ea5
+    m_Address: LoadSceneEventChannel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca9e868d0a01e419993757448e5eb1b1
+    m_Address: GameplaySupporter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9dc9118b49109e44a3cb1a61592254d
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a39fbbdffa6ed495099ad512f8a4c009
+    m_Address: GameScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66605d6ce68ff6a4e8994a8ae39240a5
+    m_Address: UICanvas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cc09d39dab6a784da4d95b176f139ba
+    m_Address: PrefabAddressList
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 831dd51bd63200e4fb3dfa312fb8375a
+    m_Address: UpgradeList
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba5c5bf65e7245f4929fa5373ec6df2
+    m_Address: RequestSequenceEventChannel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b8fa9bb6960e4ca1826efad507b3f47
+    m_Address: Assets/@Scenes/Load Scene/Scenes/GameScene/GameScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0498e51618cd94e698738212c0806dfa
+    m_Address: Assets/@Scenes/Load Scene/Scenes/LoadingScene/LoadingScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 448e3ec43ea0749b69b2a15e9a561f9a
+    m_Address: Assets/@Scenes/Load Scene/Scenes/PersistentScene/PersistentScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84d3fc29ee41449b6aaf0eb617d7ffc7
+    m_Address: DeviceManager
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ec59e2b45baec824f820a542be1a905f, type: 2}
+    - {fileID: 11400000, guid: 6657244735c8a10419795afeae8ed4b4, type: 2}

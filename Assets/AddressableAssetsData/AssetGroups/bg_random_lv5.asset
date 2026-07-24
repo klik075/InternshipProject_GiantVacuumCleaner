@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bg_random_lv5
+  m_EditorClassIdentifier: 
+  m_GroupName: bg_random_lv5
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dc409fe3647df214f9d6a676eb7d4a5c
+  m_SerializeEntries:
+  - m_GUID: c3944be446bfc5e49aae5733270108e0
+    m_Address: Prop_StreetSign_Footpath_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e738122065301344dba2122a524c7f8e
+    m_Address: Prop_StreetSign_T
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ad477d615dd703418e3ada33fc9a83b
+    m_Address: Prop_StreetSign_Stright
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71a49e95603005f44ae6c96f21fa2807
+    m_Address: Prop_StreetSign_TrafficSignals
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 409a09e81d3bb1b45b72a599ad7d0168
+    m_Address: Prop_StreetSign_Footpath_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 001ce4538dd30f547be842143011c84b
+    m_Address: Prop_StreetSign_Speed_45
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fda6be428417ff04583443bcc8c3b610
+    m_Address: Prop_StreetSign_Speed_40
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7849c4a442476f49a0f2db1af065f01
+    m_Address: Prop_StreetSign_Speed_50
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ce5830e5073773499e6934aabc91016
+    m_Address: Prop_StreetSign_SideRoadRight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3fb48332018e11499811a1639a7ab83
+    m_Address: Prop_StreetSign_Empty
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7dc8159ca3246b48abd41b525afc983
+    m_Address: Prop_StreetSign_NoParking
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 278e8b6d48365e8439609900acdf493e
+    m_Address: Prop_StreetSign_Parking
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d2856357fec0284d8bb417b715b21d6
+    m_Address: Prop_StreetSign_RoadNarrows
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12262b6f708a0154f97b3d38f7edcf15
+    m_Address: Prop_StreetSign_SideRoadLeft
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2c8443717167c34ea058cacb7f89b0f
+    m_Address: 'Prop_StreetSign_Rotary '
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3743ab7ed35d95f4eb6f45c35dbe35bb
+    m_Address: Prop_StreetSign_Speed_65
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e813f05dc95297d4eba035c75d64e223
+    m_Address: Prop_StreetSign_Y
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e4d2bbc63d0c6946aeeee8a44a5f500
+    m_Address: Prop_StreetSign_Speed_80
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4a44e78900720746be759ef0565d199
+    m_Address: Prop_StreetSign_Speed_25
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8889680264ac67345b4c2d18432671b2
+    m_Address: Prop_StreetSign_Stop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed585d13358f8248a0a10d1905390e7
+    m_Address: Prop_StreetSign_TurnLeft
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb67caf37dc91de4a8caee231f3d7aef
+    m_Address: Prop_StreetSign_Speed_35
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e7a5d47c67bc064691c0a379e6a0c3a
+    m_Address: Prop_StreetSign_Staggered
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1950b9dc8b564b46aca77cf1dfc26eb
+    m_Address: Prop_StreetSign_TurnRight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f5d3ddf778c16946a62f0ea23c2c040
+    m_Address: Prop_StreetSign_MiniBumps
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 804d6782cc37ea14f850b24d577ef44a
+    m_Address: Prop_StreetSign_Speed_30
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce4ba9a2d0c4db743bba520123c0a1ee
+    m_Address: Prop_StreetSign_TwoRoads
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b12bc5a7e0dc3f74e87fca9cf759ba3a
+    m_Address: Prop_StreetSign_Side
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02bc6bbe9bd19054db591bb15fc29415
+    m_Address: Prop_StreetSign_Speed_90
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaff1864daeb83a4bb37b97d157f5dbd
+    m_Address: Prop_StreetSign_Speed_15
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5428c82cd42f30f42b2c4b325d24b1c7
+    m_Address: Prop_StreetSign_NoEntery
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4ae0e464409232409e28628620b1762
+    m_Address: Prop_StreetSign_Cross
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b25da6308447314a82361bfcb387f2a
+    m_Address: Prop_StreetSign_Left
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc700db2aca93ef4fb8484e47081caa7
+    m_Address: Prop_StreetSign_Slope
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4fe3ca17ee7ebc4fa83e9da175688bd
+    m_Address: Prop_StreetSign_Bump
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99f516e30f9fcd04f9b475f43589d31a
+    m_Address: Prop_StreetSign_Major
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 431286f97ef984d48a346d6873f2e5b2
+    m_Address: Prop_Intel_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40645427351609044be35a945fa06f33
+    m_Address: Prop_StreetSign_Speed_55
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2f72e9a7396de21469682bdb2ec0a1da, type: 2}
+    - {fileID: 11400000, guid: 8c75e69fb8c191e47a38ee64849d5490, type: 2}

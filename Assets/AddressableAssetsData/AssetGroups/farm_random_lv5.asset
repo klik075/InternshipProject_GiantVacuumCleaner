@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: farm_random_lv5
+  m_EditorClassIdentifier: 
+  m_GroupName: farm_random_lv5
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3b130db5130fc7948aad2ffb5b006dd7
+  m_SerializeEntries:
+  - m_GUID: c741a18a6a675434899d2e739dff33f4
+    m_Address: FRP_Prop_BigFarmingTool_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ebffa21c8e141b4ca0287c60cbbe64c
+    m_Address: FRP_Prop_BigFarmingTool_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69e3c367bfdd5b34ea167fc79ea221d5
+    m_Address: FRP_Prop_BigFarmingTool_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b842155dd236564786ff6d05fd11350
+    m_Address: FRP_Prop_BigFarmingTool_07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 098e17981839a804ca7bb7241512a212
+    m_Address: FRP_Prop_BigFarmingTool_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58667f0e5ee17574783a347297a4af4b
+    m_Address: FRP_Prop_BigFarmingTool_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbdbc9cc69a26eb4b8d5d89db17d06d1
+    m_Address: FRP_Prop_BigFarmingTool_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 961b130f44fcbb649a8e3909070abc6d
+    m_Address: FRP_Prop_WoodenBox_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05596dc3e3b386d4b8e683e84dd605b9
+    m_Address: FRP_Prop_WoodenBox_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28987622041ff6743b11f2ef0f238abe
+    m_Address: FRP_Prop_WoodenBox_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aade29f65ec73f4c8773a2bc5b0dea4
+    m_Address: FRP_Prop_WoodenBox_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8116828e042a0b64fae520311bb8317a
+    m_Address: FRP_Prop_WoodenCrates_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5a8e4273c3ac8346ba121cabdeae32b
+    m_Address: FRP_Prop_WoodenCrates_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89a6c7dd64e3d9543924486137116a0b
+    m_Address: FRP_Prop_WoodenCrates_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07871677849cc924b96ecc9e1fb0871a
+    m_Address: FRP_Prop_WoodenCrates_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 53395ccc10f31c74cb9e90e966d6faea, type: 2}
+    - {fileID: 11400000, guid: 935ebc3b3dd9e014697b907e0d99a046, type: 2}

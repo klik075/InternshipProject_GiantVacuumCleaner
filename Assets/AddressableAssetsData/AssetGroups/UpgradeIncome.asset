@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UpgradeIncome
+  m_EditorClassIdentifier: 
+  m_GroupName: UpgradeIncome
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 148a2ec84cb78564e912c5be94270f44
+  m_SerializeEntries:
+  - m_GUID: bbba054d8a9576f449ba486aa324790a
+    m_Address: income 0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 678f9781ace7d104f8a6fb5ff9950c31
+    m_Address: income 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3c2a0688a009a748858475e50faaeb5
+    m_Address: income 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 062dfc0bec1306d4e834b84d8bef6907
+    m_Address: income 3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e8f3e44f660be7429f26c40d8d8ff9a
+    m_Address: income 4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc865e1944858fa47a265e554e429385
+    m_Address: income 5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc2cd7216531d61418a85674bb06a3b2
+    m_Address: income 6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddd9cdf0cb05674498169281c3dd8ca6
+    m_Address: income 7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c80dcc28e35d3004585b077aab4d38df
+    m_Address: income 8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e4bb528b44a988429a613d247b4fe3a
+    m_Address: income 9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d025f9efd3dfd1240bb90affeabe962c
+    m_Address: income 10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8a08146348fc7849960647cb14c40b6
+    m_Address: income 11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74af87f7e44f84740aa77e3a52855bbf
+    m_Address: income 12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 580c1599e9f00d745baf6527d4ea30cf
+    m_Address: income 13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31ffce007399ab747924477ca4703c7c
+    m_Address: income 14
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84419938db5af9a458b7cd04dc74d1da
+    m_Address: income 15
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34b19ebda1239f4498b2c04987bb1444
+    m_Address: income 16
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4782d60e8d42bf4f8b201c8af57652d
+    m_Address: income 17
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59338a0f6d4c7e041928843eb2ab5c19
+    m_Address: income 18
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 409355fca105a59449c255ecf03a54c2
+    m_Address: income 19
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6258691be9cc6954aa72b8e0541965ea
+    m_Address: income 20
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 49c1afbea381ded4c86cf9b209498ad7, type: 2}
+    - {fileID: 11400000, guid: 19c3aa31fac5fbf4fb32dc78ca2dcb24, type: 2}

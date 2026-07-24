@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Kitchen_random_lv0
+  m_EditorClassIdentifier: 
+  m_GroupName: Kitchen_random_lv0
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2305f4d9152f2c74b8c8420838bb8ebb
+  m_SerializeEntries:
+  - m_GUID: 4b72a377797cde4479f2fcebe8e8739e
+    m_Address: Food_Apple
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a794d5885a989fe49bbbb5f326fad2b9
+    m_Address: Food_Black Coffee Cup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a393452f306dcb458dcf2431d4607ba
+    m_Address: Food_Bread
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c48850c7f91e14747ade15836ef48ce8
+    m_Address: Food_Broccoli
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 034e522c61c187c4d853e398a3a938d3
+    m_Address: Food_Burger
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be1f89aa8e2a4bd4ea9b5113abbe7bef
+    m_Address: Food_Carrot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e316f64cc3ad9b48a934ae2cb233c32
+    m_Address: Food_Cheese
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6330ad943f8ebc94b82da264e4aa2045
+    m_Address: Food_Chicken Chest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bcfea859520b514789bb38f605752a0
+    m_Address: Food_Chicken Sub
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 179c03311e47a6c4e8da9a4ecb58f970
+    m_Address: Food_Chopped Carrot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8f88abf1bf9619428b40f95593e99de
+    m_Address: Food_Corn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3b74047b5827b5499089e380de7cb01
+    m_Address: Food_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79a8923c1f864774490461eac0137e0f
+    m_Address: Food_French Fries
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8141f0177ffa51a4fa02f801e88106ba
+    m_Address: Food_HotDog Sandwich.001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c503eab1c30dd2a48a680c5231d1e715
+    m_Address: Food_Lettuce
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: deed714cf327ea24ca79787e305947c1
+    m_Address: Food_Meet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95bfdaf4757d446408038ff86bcd8fa5
+    m_Address: Food_Milk Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ad947fec2625fc49b617d27f3c8e157
+    m_Address: Food_Oil
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d21638fb45f14b4d8a211d7b1e9fd61
+    m_Address: Food_Omelette
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e2ade5158064041a52087bc8073687
+    m_Address: Food_Pizza
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fcd068eebc56414c8ef5f14861af790
+    m_Address: Food_Potato
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29245eb81777004468d1fd42345be6b0
+    m_Address: Food_Pumpkin Soup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a7d6a70ccefc944b825729054e7116b
+    m_Address: Food_Rice
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3b414ead08730e4eb615d9fbba1334a
+    m_Address: Food_Salad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baad2299b8115f243a43eda43ac56721
+    m_Address: Food_Seared Ground Beef
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68fa6e5b6b5ee1544b4e82e4d791d7a0
+    m_Address: Food_Steak
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ff4c14f0f4220a489fd63d28fde8a5d
+    m_Address: Food_Susage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f1f8d0e84fb65f4cb660a4227ddd71b
+    m_Address: Food_Sushi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2b98cb677f42f84d9a032a0e9e65c0b
+    m_Address: Food_Taco
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a86e8addff0b7043b30deba793fd573
+    m_Address: Food_Tomato
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b962ed1c818abe4584a71ad3e5dd554
+    m_Address: Food_Turkey Sandwich
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9232fd06d5147414c86b9207cfc75938
+    m_Address: Food_Water Cup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aab4e34bf7ec13e4d8790b8fc154ee71
+    m_Address: Prop_Bowel_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7356d297f5830d8469eaf827699ff01f
+    m_Address: Prop_CuttingPlate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e784710fd1dcf74c96f7b7e8fbcba64
+    m_Address: Prop_Knife_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44d7b79d3f36c8d49a9a3591aa5c75f0
+    m_Address: Prop_Knife_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df7423c6a31e41746949c0debe8114a2
+    m_Address: Prop_Pot_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 495693b7be9c25048ac05dc321c88892
+    m_Address: Prop_RollingPin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b823014e3733c5d4090ff3fbd67c3021
+    m_Address: Prop_Spatula_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c6c6e9dfd35b1f48a307f65162cc7d7
+    m_Address: Prop_Spatula_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 184a733beb37ae74883f17ce84aa8547
+    m_Address: Prop_WhipMixer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8eaa0f6899af8db41840fc78544fccad, type: 2}
+    - {fileID: 11400000, guid: 30c1f98b587966f40b9bebf894b65497, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a321d881a5e20d408568904f04d322d, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  _guid: d9dc9118b49109e44a3cb1a61592254d
+  _description: 
+  _exp: 0
+  _lv: 0
+  _size: 1
+  upgradeData:
+    upgradeLvCount: 0
+    upgradeExpCount: 0
+    upgradeTimeCount: 0
+    upgradeSpeedCount: 0
+    upgradeIncomeCount: 0
+    lvRatio: 1
+    timeRatio: 2
+    expRatio: 5
+    maxCount: 0
+  expData: 050000001000000030000000860000005d01000047030000350700006a0e0000d41c0000
+  timeCount: 0
+  speedCount: 0
+  incomeCount: 0

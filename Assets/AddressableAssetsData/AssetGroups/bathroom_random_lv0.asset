@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bathroom_random_lv0
+  m_EditorClassIdentifier: 
+  m_GroupName: bathroom_random_lv0
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 18c914feb70023340af37b4e3052fcb2
+  m_SerializeEntries:
+  - m_GUID: 2685b8f4d24312b41baa1c1786e786ac
+    m_Address: Prop_Beauty_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 813a2cc3867b0b949badba89c2a14f18
+    m_Address: Prop_Beauty_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37ba2c738beb2d04c94668dd4eae1666
+    m_Address: Prop_Beauty_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84bfcd6c3036156469088d0f97c11e77
+    m_Address: Prop_Beauty_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34c84423a864c4c4698fd8b2b39de051
+    m_Address: Prop_Beauty_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b494ebc5d7f1a748a74161a14997ad7
+    m_Address: Prop_Beauty_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23b8ef0e51fe34a4cb03a337ec1ce7ae
+    m_Address: Prop_Beauty_07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8121c8cbe36a8c14da34aff0a666bf4a
+    m_Address: Prop_Beauty_08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b3fa2ea249674941b4b99f776b3c944
+    m_Address: Prop_Beauty_09
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec165d4bda952424697964a54616e623
+    m_Address: Prop_Beauty_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba1a1dfa81cba3e41bf266189ddfe0cc
+    m_Address: Prop_Brush_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9e5ed50ea1e51d4b95e39f45276631b
+    m_Address: Prop_Brush_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd9eae3366773784eb26246b5bb45580
+    m_Address: Prop_Soup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e473a375e29efc54790b8f75ce92f66a
+    m_Address: Prop_SoupDispenser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1bb46a41fa7a0746a0601053e2236b4
+    m_Address: Prop_ToiletBrush_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59ccb6bd551fed94cbc28fb49ce368d3
+    m_Address: Prop_ToiletBrush_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c3e991112430a478a2656b62195b62
+    m_Address: Prop_Towel_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14e9b54efec4c2f4e9a062297773dcb7
+    m_Address: Prop_Towel_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0679524e79f5fc742a0061349575149a, type: 2}
+    - {fileID: 11400000, guid: 13e09c5de4d5e9c4d849f1dfec4ac8bd, type: 2}

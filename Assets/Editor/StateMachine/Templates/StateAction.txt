@@ -1,0 +1,44 @@
+
+using UnityEngine;
+
+[CreateAssetMenu(fileName = "#RUNTIMENAME#", menuName = "State Machine/Actions/#RUNTIMENAME_WITH_SPACES#")]
+public class #SCRIPTNAME# : StateActionSO
+{
+	protected override StateAction CreateStateAction() => new #RUNTIMENAME#();
+}
+
+public class #RUNTIMENAME# : StateAction
+{
+    #region Fields
+    
+    /* Property (Origin SO Getter) */
+	protected new #SCRIPTNAME# ActionOriginSO => (#SCRIPTNAME#)base.ActionOriginSO;
+	
+	#endregion
+
+
+
+    #region Override
+    
+	public override void Initialize(StateMachine stateMachine)
+	{
+	}
+	
+	public override void OnStateEnter()
+	{
+	}
+	
+	public override void OnStateExit()
+	{
+	}
+	
+	public override void OnStateUpdate()
+    {
+    }
+    
+    public override void OnStateFixedUpdate()
+    {
+    }
+    
+	#endregion
+}

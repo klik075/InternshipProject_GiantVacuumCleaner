@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: livingroom_random_lv0
+  m_EditorClassIdentifier: 
+  m_GroupName: livingroom_random_lv0
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 19663281e94a59344ae63f61f13544c8
+  m_SerializeEntries:
+  - m_GUID: 2eca781631b1eb447bd5a52bc6ccc0fa
+    m_Address: Prop_Book_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e836f494070d2a94882e12384280f1e8
+    m_Address: Prop_Book_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd95220f0b9c7244cb47d4c835f3d0be
+    m_Address: Prop_Book_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 702ddbe6250d95a41af235f7edfe8786
+    m_Address: Prop_Book_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 209b9e8fd1d4bed4e8c7556617022c12
+    m_Address: Prop_Console_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72b85c72abbe4c24ca0dcec7142a1e6e
+    m_Address: Prop_Console_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c95356a13634e3e48be48edb487f3dac
+    m_Address: Prop_Console_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5a7634d17b6cc742888bdbf79ce3b2b
+    m_Address: Prop_Console_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f19cb7802a56c904a80eb3540ac17cc6
+    m_Address: Prop_Homeplant_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11c33f75d2c51e841837374f60b0cc93
+    m_Address: Prop_Homeplant_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99d20e95986ef1c4ea3a1e293d577f26
+    m_Address: Prop_Homeplant_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8245d5976f8ba740b866a391d7f24b2
+    m_Address: Prop_Homeplant_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0264ed8e81744044c9bea857b68b4b3e
+    m_Address: Prop_Homeplant_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 022d83983a7f4b84a9aa13321b2e1948
+    m_Address: Prop_Homeplant_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8469556b638eaa04e93abae3400d1533
+    m_Address: Prop_Homeplant_09
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44399784020bec644b5e5689dd47aa14
+    m_Address: Prop_Homeplant_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 852b9ea08c50f4a48a2527999e4473a9
+    m_Address: Prop_Homeplant_11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2fc4e48c3e0ba34cb43853ee5a35bef
+    m_Address: Prop_Telephone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayGame
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65ea2ea5f339da4dab3776bf2934fca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0729c5adccb678844afd7972c3bc8e3d, type: 2}
+    - {fileID: 11400000, guid: d99a797ce526d614f98763a84f35bf89, type: 2}
