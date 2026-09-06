@@ -21,7 +21,7 @@ public class InputReader : DescriptionSO,GameInput.IGameplayActions
         {
             _gameInput = new GameInput();
 
-            _gameInput.Gameplay.SetCallbacks(this);//Gmaeplay 맵에 등록
+            _gameInput.Gameplay.SetCallbacks(this);//InputSystem에 이벤트 연결 OnMovement, OnAttack 같은 액션에 대응하는 메서드
 
             _gameInput.Gameplay.Enable();//활성화
         }

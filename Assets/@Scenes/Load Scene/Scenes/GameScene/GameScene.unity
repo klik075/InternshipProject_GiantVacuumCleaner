@@ -39,7 +39,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -12709,6 +12708,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6120152541162849656, guid: 66605d6ce68ff6a4e8994a8ae39240a5,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6405958476399471215, guid: 66605d6ce68ff6a4e8994a8ae39240a5,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -14990,12 +14994,12 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
   m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
 --- !u!114 &968496209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17259,6 +17263,8 @@ MonoBehaviour:
   sizeRatio: 2
   cleaningSoundTag: cleaning
   billboard: {fileID: 370771800}
+  cognitiveRange: {fileID: 1635678431}
+  suckController: {fileID: 1224984946}
 --- !u!54 &1085733896
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19546,6 +19552,7 @@ MonoBehaviour:
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
+  m_ScrollDeltaPerTick: 6
 --- !u!1 &1238918511
 GameObject:
   m_ObjectHideFlags: 0
